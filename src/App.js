@@ -22,19 +22,19 @@ function App() {
   return (
     <div className="App">
       <Helmet>
-        <title>256 ART</title>
-        <meta name="title" content="256 ART" />
+        <title>Pinmapple</title>
+        <meta name="title" content="Pinmapple" />
         <meta
           name="description"
-          content="The generative art platform for upcoming artists and the stories they have to tell."
+          content="Anywhere and everywhere you go. Pin it!"
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://256art.com/" />
-        <meta property="og:title" content="256 ART" />
+        <meta property="og:url" content="https://pinmapple.com/" />
+        <meta property="og:title" content="Pinmapple" />
         <meta
           property="og:description"
-          content="The generative art platform for upcoming artists and the stories they have to tell."
+          content="Anywhere and everywhere you go. Pin it!."
         />
         <meta
           property="og:image"
@@ -42,8 +42,8 @@ function App() {
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://256art.com/" />
-        <meta property="twitter:title" content="256 ART" />
+        <meta property="twitter:url" content="https://pinmapple.com/" />
+        <meta property="twitter:title" content="Pinmapple" />
         <meta
           property="twitter:description"
           content="The generative art platform for upcoming artists and the stories they have to tell."
